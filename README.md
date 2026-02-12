@@ -1,4 +1,4 @@
-# 🕹️ TPS Animation & Systems Prototype
+# Overview
 
 <p align="center">
   A school project focused on learning the basics of <b>technical animation</b> inside of <b>Unreal Engine 5</b> and creation of gameplay animations in <b>Cascadeur</b>.
