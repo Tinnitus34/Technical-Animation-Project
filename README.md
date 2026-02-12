@@ -40,8 +40,8 @@
 ---
 
 ## 🔧 Extra Stuff
-* <b>Aim Offset:</b> So the character actually looks where the camera is pointing.
-* <b>Hand IK:</b> Used a FABRIK node to keep the left hand stuck to the gun so it doesn't slide around.
-* <b>Tools:</b> Unreal Engine 5, Cascadeur, and the UE5 Mannequin.
+* <b>Aim Offset</b> for both revolver and rifle 
+* <b>Hand IK:</b> FABRIK node to sync left hand to gun model
+* <b>Tools:</b> Unreal Engine 5 & Cascadeur
 
 ---
